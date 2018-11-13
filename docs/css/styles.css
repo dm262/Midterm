@@ -2,6 +2,10 @@
     width: 400px;
 
 }
+.Textwrap{
+    float: right;
+    margin: 10px;
+}
 
 .square{
     width: 100px;
@@ -9,7 +13,6 @@
     Background-color:black;
 }
 
-}
 
 #floated{
     float: left;
@@ -99,9 +102,7 @@ img {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-textright{
-    text-align: right;
-}
+
 
 .alignCenter {
     text-align: center;
@@ -109,4 +110,7 @@ textright{
 
 .clearFix {
     clear: both;
+}
+.TextRight {
+    text-align: right;
 }
