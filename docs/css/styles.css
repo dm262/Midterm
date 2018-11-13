@@ -1,0 +1,95 @@
+
+
+img {
+    display: block;
+    width: auto;
+    margin: auto;
+}
+.topcorner {
+    position:absolute;
+    top:0;
+    right:0;
+}
+
+
+.center {
+    display: block;
+    margin-left: 200px;
+    margin-right: 200px;
+    width: 70%;
+}
+
+
+#wrapper {
+    width: 960px;
+    background-color: blanchedalmond;
+}
+
+.item {
+    width: 120px;
+    min-height: 120px;
+    max-height: 100px;
+    float: left;
+    margin: 3px;
+    padding: 3px;
+}
+
+
+
+#top {
+    height: 135px;
+    line-height: 135px;
+}
+#logo {
+    height: 135px;
+}
+
+
+#footer {
+    height: 100px;
+    line-height: 100px;
+}
+
+
+.marginCenter {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.displayInline {
+    display: inline;
+}
+
+
+.floatRight {
+    float: right;
+}
+
+
+.floatLeft {
+    float: left;
+}
+.floatNone {
+    float: none;
+}
+
+
+.grSmall {
+    width: 329px;
+}
+
+.Helvetica {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+textright{
+    text-align: right;
+}
+
+.alignCenter {
+    text-align: center;
+}
+
+.clearFix {
+    clear: both;
+}
