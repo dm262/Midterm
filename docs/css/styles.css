@@ -1,4 +1,12 @@
-
+#container {
+    width: 400px;
+    background: yellow;
+}
+#floated{
+    float: left;
+    width: 150px;
+    background: red;
+}
 
 img {
     display: block;
